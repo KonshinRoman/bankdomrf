@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="506c8ff7-0379-4d30-a96e-07dc89ef41ee" name="Default Changelist" comment="" />
+    <list default="true" id="506c8ff7-0379-4d30-a96e-07dc89ef41ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="KonshinRoman" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="bankdomrf" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="websyte" />
   </component>
   <component name="ProjectId" id="1Z2geOjnelyCuBK8Czgz2DC8MM6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -93,7 +95,7 @@
       <workItem from="1584054052363" duration="39000" />
       <workItem from="1584054151722" duration="1914000" />
       <workItem from="1584127952668" duration="6067000" />
-      <workItem from="1584168851329" duration="7890000" />
+      <workItem from="1584168851329" duration="8170000" />
     </task>
     <task id="LOCAL-00001" summary="Создание меню&#10;Создание структуры страницы">
       <created>1584144730151</created>
@@ -123,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584178596409</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Создание статей">
+      <created>1584178622359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584178622359</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
