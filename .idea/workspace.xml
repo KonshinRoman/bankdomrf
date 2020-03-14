@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="506c8ff7-0379-4d30-a96e-07dc89ef41ee" name="Default Changelist" comment="Создание статей">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Magor64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kreditnie-procenti.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="506c8ff7-0379-4d30-a96e-07dc89ef41ee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +93,7 @@
       <workItem from="1584054052363" duration="39000" />
       <workItem from="1584054151722" duration="1914000" />
       <workItem from="1584127952668" duration="6067000" />
-      <workItem from="1584168851329" duration="7393000" />
+      <workItem from="1584168851329" duration="7652000" />
     </task>
     <task id="LOCAL-00001" summary="Создание меню&#10;Создание структуры страницы">
       <created>1584144730151</created>
@@ -115,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584145098673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Создание статей">
+      <created>1584178187962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584178187962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
